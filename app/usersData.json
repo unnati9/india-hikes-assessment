@@ -1,0 +1,32 @@
+[
+  {
+    "email": "testtest@test.com",
+    "password": "123",
+    "firstName": "Unnati",
+    "lastName": "Patil",
+    "gender": "female",
+    "dateOfBirth": "1998-05-10",
+    "weight": "49",
+    "height": "5' 4\"",
+    "phoneNumber": "07559219209",
+    "city": "Boisar",
+    "companyOrCollege": "asd",
+    "designation": "",
+    "referrerEmail": "unnatipatil900@gmail.com"
+  },
+  {
+    "email": "unnatipatil900@gmail.com",
+    "password": "1234",
+    "firstName": "Unnati",
+    "lastName": "Patil",
+    "gender": "female",
+    "dateOfBirth": "1998-05-10",
+    "weight": "49",
+    "height": "5' 4\"",
+    "phoneNumber": "07559219209",
+    "city": "Boisar",
+    "companyOrCollege": "asd",
+    "designation": "",
+    "referrerEmail": "unnatipatil900@gmail.com"
+  }
+]
