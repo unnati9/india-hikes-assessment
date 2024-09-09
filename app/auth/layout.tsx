@@ -3,10 +3,11 @@ import { usePathname } from "next/navigation";
 import { ReactNode } from "react";
 
 const RootLayout = ({ children }: { children: ReactNode }) => {
-  const pathName = usePathname();
+  const pathName = usePathname() || "";
   const classes = `container-class ${
     pathName.includes("register") ? "sign-up" : "sign-in"
   }`;
+  
   return (
     <div className={classes}>
       <div className="row">
